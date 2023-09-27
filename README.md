@@ -49,3 +49,11 @@ Contribuidor: https://github.com/edibertoalves
 [![Logo do JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" align="left" height="100" width="100" ></a>
+
+## Código da função Soma
+
+```javascript
+function soma(a, b) {
+    return a + b
+}
+```
