@@ -60,10 +60,10 @@ function soma(a, b) {
 
 ## Lista de Tarefas a fazer
 
-- [ x ] Área de Membros
+- [x] Área de Membros
 - [ ] Integração com outros pagamentos
-- [ ] Sistema de bônux
-- [ x ] CSS do rodapé
+- [ ] Sistema de bônus
+- [x] CSS do rodapé
 
 
 
