@@ -43,3 +43,5 @@ __Melhoria 1__, _Melhoria 2_
 [Google](https://www.google.com.br)
 
 [http://www.horadecodar.com.br](http://www.horadecodar.com.br)
+
+Contribuidor: https://github.com/edibertoalves
