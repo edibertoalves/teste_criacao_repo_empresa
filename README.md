@@ -33,3 +33,7 @@ __Melhoria 1__, _Melhoria 2_
 #### Imagem Local
 
 ![Estação da Luz](img/BingWallpaper.jpg)
+
+#### Imagem Externa
+
+![Imagem do JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png)
