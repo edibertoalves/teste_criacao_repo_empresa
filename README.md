@@ -50,10 +50,20 @@ Contribuidor: https://github.com/edibertoalves
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" align="left" height="100" width="100" ></a>
 
-## Código da função Soma
+\
 
 ```javascript
 function soma(a, b) {
     return a + b
 }
 ```
+
+## Lista de Tarefas a fazer
+
+- [ x ] Área de Membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônux
+- [ x ] CSS do rodapé
+
+
+
