@@ -46,4 +46,6 @@ __Melhoria 1__, _Melhoria 2_
 
 Contribuidor: https://github.com/edibertoalves
 
-[![Logo do JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png =100x20)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+[![Logo do JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.pn" width="100" height="100">(https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
