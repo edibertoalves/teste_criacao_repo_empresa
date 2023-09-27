@@ -29,3 +29,7 @@ __Melhoria 1__, _Melhoria 2_
     4. teste final
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+#### Imagem Local
+
+![Estação da Luz](img/BingWallpaper.jpg)
