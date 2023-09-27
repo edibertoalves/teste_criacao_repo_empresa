@@ -45,3 +45,5 @@ __Melhoria 1__, _Melhoria 2_
 [http://www.horadecodar.com.br](http://www.horadecodar.com.br)
 
 Contribuidor: https://github.com/edibertoalves
+
+[![Logo do JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
